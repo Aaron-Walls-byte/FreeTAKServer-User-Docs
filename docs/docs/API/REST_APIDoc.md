@@ -4,7 +4,7 @@ The FreeTAKServer REST API is a human readeble approach to the TAK world. The AP
 
 ## How FTS manages the information
 
-FTS will send the  information coming trough the API to all the connected clients, addtionally it will save it to the persistency, to be query in future. 
+FTS will send the  information coming through the API to all the connected clients, addtionally it will save it to the persistency, to be query in future. 
 
 ## List of supported API
 
